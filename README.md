@@ -1,5 +1,7 @@
 # Covid-19_Data_Analysis_using_Tableau_creating_Dashboards
 
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+
 This is the simple demonstration of how we can create different and insteresting charts, visuals and dashboards from same data.
 
 The following questions we asked and then created visuals from Covid-19 Dataset.
@@ -76,8 +78,5 @@ The following questions we asked and then created visuals from Covid-19 Dataset.
 
 ![Dashboard 3 Corona](https://user-images.githubusercontent.com/124501309/223772360-dd70f295-7562-4824-a5cd-e7f2fd8d9b18.png)
 
-
-
-
-
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
