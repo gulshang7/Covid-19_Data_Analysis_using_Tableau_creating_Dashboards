@@ -2,7 +2,7 @@
 
 [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-This is the simple demonstration of how we can create different and insteresting charts, visuals and dashboards from same data.
+This is the simple demonstration of how we can create different and interesting charts, visuals and dashboards from same data.
 
 The following questions we asked and then created visuals from Covid-19 Dataset.
 
